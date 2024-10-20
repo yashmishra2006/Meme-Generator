@@ -1,1 +1,1 @@
-Try it out - https://yashmishra2006.github.io/Meme-Generator/
+Try it out by clicking [here](https://yashmishra2006.github.io/Meme-Generator/)
