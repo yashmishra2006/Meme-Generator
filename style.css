@@ -10,21 +10,24 @@ body {
   }
   
   img {
+    margin-top: 50px;
+    margin-left: 200px;
     border: 1px solid white;
     border-radius: 5px;
-    max-width: 350px;
+    max-width: 450px;
     width: 100%;
   }
   
   p {
     color: #8097A6;
+    font-size: 2rem;
   }
   
   .attribution {
     position: absolute;
     right: 20px;
     bottom: 20px;
-    font-size: 0.8rem;
+    font-size: 2rem;
     background-color: #8097A6;
     padding: 10px;
     border-radius: 5px;
@@ -58,6 +61,7 @@ body {
     padding-right: 30px;
     border-left: 1px dotted #BFA38A;
     height: 85vh;
+    font-size: 2rem;
   }
   
   button {
@@ -70,6 +74,7 @@ body {
     background: transparent;
     color: #BFA38A;
     border-radius: 5px;
+    font-size: 1rem
   }
   
   button:hover {
